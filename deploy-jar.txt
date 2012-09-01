@@ -1,0 +1,1 @@
+mvn deploy:deploy-file -DgroupId=de.java2html -DartifactId=java2html -Dversion=1.0 -Dpackaging=jar -Dfile="java2html.jar" -Durl=file:ext
