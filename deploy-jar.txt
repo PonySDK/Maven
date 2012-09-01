@@ -1,1 +1,1 @@
-mvn deploy:deploy-file -DgroupId=de.java2html -DartifactId=java2html -Dversion=1.0 -Dpackaging=jar -Dfile="java2html.jar" -Durl=file:ext
+mvn deploy:deploy-file -DgroupId=com.ponysdk -DartifactId=ponysdk -Dversion=0.3 -Dpackaging=jar -Dfile="ponysdk.jar" -Durl=file:releases

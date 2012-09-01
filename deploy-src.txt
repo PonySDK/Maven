@@ -1,0 +1,1 @@
+mvn deploy:deploy-file -Dclassifier=sources -DgroupId=com.ponysdk -DartifactId=ponysdk -Dversion=0.3 -Dpackaging=jar -Dfile="ponysdk-src.jar" -Durl=file:releases
