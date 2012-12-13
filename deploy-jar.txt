@@ -1,1 +1,1 @@
-mvn deploy:deploy-file -DgroupId=com.ponysdk -DartifactId=ponysdk -Dversion=0.5 -Dpackaging=jar -Dfile="ponysdk.jar" -Durl=file:releases
+mvn deploy:deploy-file -DgroupId=com.ponysdk -DartifactId=ponysdk -Dversion=0.6 -Dpackaging=jar -Dfile="ponysdk.jar" -Durl=file:releases
